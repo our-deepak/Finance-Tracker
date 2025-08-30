@@ -12,8 +12,8 @@ A simple, modern web application to **manage your income and expenses**. Track y
 
 ## Screenshots
 
-![Dashboard](./screenshot-dashboard.jpg)
-![Transactions](./screenshot-transactions.jpg)
+![Dashboard](.screenshots/dashboard.png)
+![Transactions](.screenshots/transactions.png)
 
 ## Technologies Used
 
